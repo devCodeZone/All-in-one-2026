@@ -1,0 +1,23 @@
+START COMPLETE APP:
+npm install
+npm run dev
+
+TYPE CHECK:
+npm run check
+
+MAIN STARTER FILES:
+src/app/App.tsx
+server/index.ts
+
+HIGH PRIORITY:
+src/01_ai_llm_fundamentals/05_RAG.ts
+src/03_openai_responses_api/03_Structured_Output.ts
+src/03_openai_responses_api/04_Function_Calling.ts
+src/03_openai_responses_api/05_Streaming.ts
+src/04_streaming_ai_ux/02_Abort_Stop_Generation.ts
+src/05_tools_agents/02_Agent_Loop.ts
+src/06_rag_embeddings/02_Vector_Search.ts
+src/11_mcp/02_MCP_2026_Stateless.ts
+src/12_ai_security_guardrails/01_Secrets_BFF.ts
+src/13_evals_observability/01_Evals.ts
+src/15_ai_system_design/01_AI_Chat_Architecture.ts

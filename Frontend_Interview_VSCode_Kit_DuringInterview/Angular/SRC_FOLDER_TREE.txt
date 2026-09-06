@@ -1,0 +1,85 @@
+01_fundamentals/
+  01_Standalone_Component.component.ts
+  02_Template_Bindings.component.ts
+  03_Two_Way_Binding.component.ts
+  04_Template_Reference.component.ts
+  05_Pipes.component.ts
+02_templates_directives/
+  01_Control_Flow.component.ts
+  02_NgTemplate_Container.component.ts
+  03_Custom_Directive.component.ts
+  04_Custom_Pipe.component.ts
+03_signals_reactivity/
+  01_Signal.component.ts
+  02_Computed.component.ts
+  03_Effect.component.ts
+  04_LinkedSignal.component.ts
+  05_Input_Output_Model.component.ts
+  06_Resource.component.ts
+04_di_lifecycle/
+  01_DI_Inject.component.ts
+  02_Lifecycle_Hooks.component.ts
+  03_DestroyRef.component.ts
+  04_AfterNextRender.component.ts
+05_forms/
+  01_Template_Driven.component.ts
+  02_Reactive_Form.component.ts
+  03_Custom_Validator.component.ts
+  04_FormArray.component.ts
+06_routing/
+  01_Router_Basics.component.ts
+  02_Functional_Guard.component.ts
+  03_Resolver.component.ts
+  04_Lazy_Loading.component.ts
+07_http_rxjs/
+  01_HttpClient.component.ts
+  02_Functional_Interceptor.component.ts
+  03_SwitchMap_Typeahead.component.ts
+  04_RxJS_Operators.component.ts
+  05_TakeUntilDestroyed.component.ts
+  06_ToSignal_ToObservable.component.ts
+  07_HttpResource.component.ts
+08_state_architecture/
+  01_State_Scope.component.ts
+  02_Signal_Store.component.ts
+  03_Facade_Pattern.component.ts
+  04_NgRx_Awareness.component.ts
+09_performance_modern/
+  01_OnPush.component.ts
+  02_Zoneless.component.ts
+  03_Defer.component.ts
+  04_Track.component.ts
+  05_SSR_Hydration.component.ts
+  06_Incremental_Hydration.component.ts
+  07_Web_Vitals.component.ts
+  08_Profiling.component.ts
+10_testing/
+  01_Component_Test.component.ts
+  02_Service_Test.component.ts
+  03_Http_Testing.component.ts
+  04_Vitest.component.ts
+11_security/
+  01_XSS.component.ts
+  02_Auth.component.ts
+  03_CSP_CSRF.component.ts
+12_system_design/
+  01_Autocomplete.component.ts
+  02_Infinite_Scroll.component.ts
+  03_Toast.component.ts
+  04_Modal.component.ts
+  05_Data_Table.component.ts
+  06_Optimistic_UI.component.ts
+  07_Design_System.component.ts
+  08_Form_Wizard.component.ts
+  09_Auth_Architecture.component.ts
+  10_Error_Handling.component.ts
+  11_Feature_Architecture.component.ts
+  12_Micro_Frontends.component.ts
+  13_Realtime.component.ts
+  14_File_Upload.component.ts
+  15_Caching.component.ts
+13_latest_angular22/
+  01_Angular22.component.ts
+  02_Signal_Forms.component.ts
+  03_RxResource.component.ts
+  04_OnPush_Default_Direction.component.ts

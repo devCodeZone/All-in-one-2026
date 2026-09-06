@@ -1,0 +1,14 @@
+FIRST TIME:
+npm install
+
+CHECK ALL:
+npm run check
+
+RUN ONE:
+npx tsx src/04_unions_narrowing/02_Discriminated_Union.ts
+
+RUN DEBOUNCE:
+npx tsx src/15_interview_coding/01_Debounce_Generic.ts
+
+LATEST TS OVERVIEW:
+npm run latest

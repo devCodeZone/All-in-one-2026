@@ -1,0 +1,167 @@
+00_quick_revision/
+  01_JavaScript_Overview.js
+  02_Interview_Mental_Model.js
+01_basics/
+  01_Variables_Let_Const_Var.js
+  02_Primitive_Types.js
+  03_Typeof_and_Type_Checking.js
+  04_Operators.js
+  05_Truthy_Falsy.js
+  06_Equality.js
+  07_NaN_Infinity.js
+  08_Number_Precision.js
+  09_BigInt.js
+  10_Symbol.js
+02_strings/
+  01_String_Methods.js
+  02_Template_Literals.js
+  03_Tagged_Templates.js
+  04_Unicode_WellFormed.js
+03_control_flow/
+  01_If_Switch_Ternary.js
+  02_Loops.js
+  03_Break_Continue_Labels.js
+04_functions_scope_closure/
+  01_Function_Declaration_Expression_Arrow.js
+  02_Scope.js
+  03_Hoisting_TDZ.js
+  04_Closure.js
+  05_IIFE.js
+  06_Default_Rest_Parameters.js
+  07_Spread_Syntax.js
+  08_Higher_Order_Functions.js
+  09_Currying.js
+  10_Recursion.js
+05_this_bind_classes/
+  01_This_Rules.js
+  02_Call_Apply_Bind.js
+  03_Class_Syntax.js
+  04_Inheritance_Super.js
+  05_Private_Fields_Static_Blocks.js
+06_objects_prototypes/
+  01_Object_Basics.js
+  02_Destructuring.js
+  03_Object_Methods.js
+  04_Property_Descriptors.js
+  05_Getters_Setters.js
+  06_Prototype_Chain.js
+  07_Constructor_Prototype.js
+  08_Object_Create_Assign.js
+  09_Freeze_Seal.js
+  10_Shallow_vs_Deep_Copy.js
+07_arrays_collections/
+  01_Array_Methods.js
+  02_Mutating_vs_NonMutating.js
+  03_Flat_FlatMap.js
+  04_Array_From_FromAsync.js
+  05_Set.js
+  06_Map.js
+  07_WeakMap_WeakSet.js
+  08_Object_GroupBy_Map_GroupBy.js
+08_iterators_generators/
+  01_Iterable_Iterator.js
+  02_Generator.js
+  03_Async_Generator.js
+  04_Iterator_Helpers.js
+  05_Iterator_Concat.js
+09_async_event_loop/
+  01_Callbacks.js
+  02_Promise.js
+  03_Async_Await.js
+  04_Promise_Combinators.js
+  05_Event_Loop_Order.js
+  06_Microtask_Queue.js
+  07_Promise_WithResolvers.js
+  08_Promise_Try.js
+  09_AbortController.js
+  10_Async_Race_Latest_Wins.js
+10_errors/
+  01_Try_Catch_Finally.js
+  02_Custom_Error.js
+  03_Error_Cause.js
+  04_Error_IsError.js
+11_modules/
+  01_ES_Modules.js
+  02_Dynamic_Import.js
+  03_Import_Meta.js
+  04_Import_Attributes.js
+12_regex_json_date/
+  01_Regular_Expressions.js
+  02_RegExp_Escape.js
+  03_RegExp_Modifiers.js
+  04_JSON_Parse_Stringify.js
+  05_JSON_RawJSON_Source.js
+  06_Date_Basics.js
+  07_Intl.js
+13_browser_dom/
+  01_DOM_Selection.js
+  02_Event_Propagation.js
+  03_PreventDefault_StopPropagation.js
+  04_CustomEvent.js
+  05_IntersectionObserver.js
+  06_MutationObserver.js
+  07_ResizeObserver.js
+  08_RequestAnimationFrame.js
+  09_Web_Storage.js
+  10_URL_URLSearchParams.js
+14_fetch_webapis/
+  01_Fetch.js
+  02_Fetch_Abort_Timeout.js
+  03_WebSocket_Concept.js
+  04_Server_Sent_Events.js
+  05_Web_Worker_Concept.js
+  06_StructuredClone.js
+15_performance_memory/
+  01_Debounce.js
+  02_Throttle.js
+  03_Memoization.js
+  04_Garbage_Collection.js
+  05_Event_Listener_Cleanup.js
+  06_WeakRef_FinalizationRegistry.js
+16_patterns/
+  01_Module_Pattern.js
+  02_Factory_Function.js
+  03_Observer_PubSub.js
+  04_Singleton_Caution.js
+  05_Composition_Over_Inheritance.js
+  06_Function_Composition.js
+17_interview_coding/
+  01_Flatten_Array.js
+  02_GroupBy_Reduce.js
+  03_Deep_Clone_Concept.js
+  04_Deep_Equal.js
+  05_Curry.js
+  06_Once.js
+  07_Retry.js
+  08_LRU_Cache.js
+  09_Promise_All_Polyfill.js
+  10_Event_Emitter.js
+18_es2025_es2026_latest/
+  01_ES2025_2026_Overview.js
+  02_Math_SumPrecise.js
+  03_Map_GetOrInsert.js
+  04_Uint8Array_Base64_Hex.js
+  05_Float16.js
+19_senior_interview/
+  01_Execution_Context_Call_Stack.js
+  02_Lexical_Environment.js
+  03_Pass_By_Value_Object_Sharing.js
+  04_Immutability.js
+  05_Pure_Functions.js
+  06_Deep_vs_Shallow_Equality.js
+  07_Prototype_vs_Class.js
+  08_Concurrency_vs_Parallelism.js
+  09_CSR_SSR_Hydration_JS_View.js
+  10_Tree_Shaking.js
+20_security_architecture/
+  01_XSS.js
+  02_Prototype_Pollution.js
+  03_CSRF_CORS.js
+  04_Accessibility_JS.js
+  05_Frontend_Error_Strategy.js
+21_system_design/
+  01_Typeahead_Core.js
+  02_Optimistic_Update.js
+  03_Cache_Stale_While_Revalidate.js
+  04_Pagination_Vs_Virtualization.js
+  05_Realtime_Transport_Choice.js

@@ -1,0 +1,131 @@
+01_basics/
+  01_Primitive_Types.ts
+  02_Type_Inference.ts
+  03_Arrays_Tuples.ts
+  04_Object_Optional_Readonly.ts
+  05_Any_Unknown_Never.ts
+  06_Enum_vs_Const_Object.ts
+02_functions/
+  01_Function_Types.ts
+  02_Optional_Default_Rest.ts
+  03_Overloads.ts
+  04_Generic_Callback.ts
+  05_This_Parameter.ts
+03_interfaces_aliases/
+  01_Interface.ts
+  02_Type_Alias.ts
+  03_Interface_vs_Type.ts
+  04_Declaration_Merging.ts
+  05_Extends_Intersection.ts
+04_unions_narrowing/
+  01_Union_Literal.ts
+  02_Discriminated_Union.ts
+  03_Typeof_In_Instanceof.ts
+  04_Type_Guard.ts
+  05_Assertion_Function.ts
+  06_Exhaustive_Never.ts
+05_generics/
+  01_Generic_Function.ts
+  02_Constraints.ts
+  03_Keyof_Generic.ts
+  04_Generic_Interface.ts
+  05_Default_Generics.ts
+  06_Const_Type_Parameters.ts
+06_utility_types/
+  01_Partial_Required_Readonly.ts
+  02_Pick_Omit.ts
+  03_Record.ts
+  04_Exclude_Extract.ts
+  05_NonNullable.ts
+  06_Parameters_ReturnType.ts
+  07_Awaited.ts
+07_advanced_types/
+  01_Keyof_Typeof.ts
+  02_Indexed_Access.ts
+  03_Mapped_Types.ts
+  04_Conditional_Types.ts
+  05_Infer.ts
+  06_Distributive_Conditional.ts
+  07_Template_Literal_Types.ts
+  08_Key_Remap.ts
+  09_Recursive_Types.ts
+08_classes_oop/
+  01_Class_Basics.ts
+  02_Access_Modifiers.ts
+  03_Readonly_Parameter_Properties.ts
+  04_Abstract_Class.ts
+  05_Implements.ts
+  06_Override.ts
+09_modules/
+  01_ES_Modules.ts
+  02_Type_Only_Imports.ts
+  03_Namespace_vs_Module.ts
+  04_Module_Resolution.ts
+10_async_promises/
+  01_Promise_Types.ts
+  02_Validate_External_Data.ts
+  03_Result_Pattern.ts
+11_dom_frontend/
+  01_DOM_Query_Types.ts
+  02_Event_Types.ts
+  03_Typed_Event_Map.ts
+12_strict_safety/
+  01_Strict_Null_Checks.ts
+  02_NoUncheckedIndexedAccess.ts
+  03_ExactOptionalPropertyTypes.ts
+  04_Unknown_Catch.ts
+  05_Satisfies.ts
+  06_As_Const.ts
+  07_Type_Assertion_Caution.ts
+13_tsconfig_build/
+  01_TSConfig_Core.ts
+  02_Target_vs_Lib.ts
+  03_Declaration_Files.ts
+  04_Project_References.ts
+  05_IsolatedModules.ts
+  06_VerbatimModuleSyntax.ts
+14_patterns_system_design/
+  01_Typed_API_Response.ts
+  02_UI_State_Machine.ts
+  03_Typed_Event_Bus.ts
+  04_Branded_Types.ts
+  05_Deep_Readonly.ts
+  06_Parse_Dont_Cast.ts
+  07_Typed_Routes.ts
+  08_Design_System_Props.ts
+15_interview_coding/
+  01_Debounce_Generic.ts
+  02_Throttle_Generic.ts
+  03_GroupBy_Generic.ts
+  04_UniqueBy_Generic.ts
+  05_Memoize_Generic.ts
+  06_Retry_Async.ts
+  07_Deep_Partial.ts
+  08_Typed_Object_Keys.ts
+16_typescript_6_latest/
+  01_TS6_Overview.ts
+  02_ES2025_Target.ts
+  03_Temporal_Types.ts
+  04_Modern_Defaults.ts
+  05_ModuleResolution_Migration.ts
+  06_Import_Attributes.ts
+  07_Stable_Type_Ordering.ts
+  08_TS7_Preparation.ts
+17_frontend_integration/
+  01_React_Props_Types.ts
+  02_Angular_Service_Types.ts
+  03_DTO_vs_Domain.ts
+  04_Form_Model.ts
+18_decorators_declarations/
+  01_Decorator_Concept.ts
+  02_Declare_Global.ts
+  03_Module_Augmentation.ts
+19_senior_interview/
+  01_Structural_Typing.ts
+  02_Excess_Property_Check.ts
+  03_Variance_Basics.ts
+  04_Type_Erasure.ts
+  05_Compile_vs_Runtime.ts
+  06_Unknown_Over_Any.ts
+  07_Interface_or_Type.ts
+  08_Never_vs_Void.ts

@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "JavaScript",
+      "path": "JavaScript"
+    },
+    {
+      "name": "React",
+      "path": "React"
+    },
+    {
+      "name": "Angular",
+      "path": "Angular"
+    }
+  ],
+  "settings": {
+    "editor.fontSize": 17,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "files.autoSave": "off"
+  }
+}

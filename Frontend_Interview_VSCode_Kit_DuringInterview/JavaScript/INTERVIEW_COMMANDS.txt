@@ -1,0 +1,26 @@
+RUN BASICS:
+node src/01_basics/01_Variables_Let_Const_Var.js
+
+RUN CLOSURE:
+node src/04_functions_scope_closure/04_Closure.js
+
+RUN THIS:
+node src/05_this_bind_classes/01_This_Rules.js
+
+RUN PROTOTYPE:
+node src/06_objects_prototypes/06_Prototype_Chain.js
+
+RUN EVENT LOOP:
+node src/09_async_event_loop/05_Event_Loop_Order.js
+
+RUN PROMISE COMBINATORS:
+node src/09_async_event_loop/04_Promise_Combinators.js
+
+RUN DEBOUNCE:
+node src/15_performance_memory/01_Debounce.js
+
+RUN LRU:
+node src/17_interview_coding/08_LRU_Cache.js
+
+RUN CURRENT ES2025/ES2026:
+npm run latest

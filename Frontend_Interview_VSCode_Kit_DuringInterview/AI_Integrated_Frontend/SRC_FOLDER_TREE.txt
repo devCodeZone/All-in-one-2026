@@ -1,0 +1,90 @@
+01_ai_llm_fundamentals/
+  01_LLM.ts.ts
+  02_Tokens_Context_Window.ts.ts
+  03_Temperature_Determinism.ts.ts
+  04_Embeddings.ts.ts
+  05_RAG.ts.ts
+02_prompt_engineering/
+  01_System_User_Instructions.ts.ts
+  02_Few_Shot.ts.ts
+  03_Prompt_Template.ts.ts
+  04_Prompt_Injection_Defense.ts.ts
+03_openai_responses_api/
+  01_Basic_Response.ts.ts
+  02_Multiturn_Previous_Response.ts.ts
+  03_Structured_Output.ts.ts
+  04_Function_Calling.ts.ts
+  05_Streaming.ts.ts
+  06_File_Search_RAG.ts.ts
+  07_Web_Search_Tool.ts.ts
+04_streaming_ai_ux/
+  01_Streaming_State_Machine.ts.ts
+  02_Abort_Stop_Generation.ts.ts
+  03_Optimistic_User_Message.ts.ts
+  04_Accessible_Live_Region.tsx.tsx
+05_tools_agents/
+  01_Tool_Schema.ts.ts
+  02_Agent_Loop.ts.ts
+  03_Human_Approval.ts.ts
+  04_Tool_Result_UI.tsx.tsx
+06_rag_embeddings/
+  01_Chunking.ts.ts
+  02_Vector_Search.ts.ts
+  03_Citations.ts.ts
+  04_Reranking.ts.ts
+07_multimodal/
+  01_Image_Input.ts.ts
+  02_File_Upload_AI.tsx.tsx
+  03_Realtime_Voice_WebRTC.ts.ts
+08_react_ai/
+  01_React_Chat_State.tsx.tsx
+  02_Vercel_AI_SDK_useChat.tsx.tsx
+  03_AI_Suspense_Streaming_Concept.tsx.tsx
+09_angular_ai/
+  01_Angular_AI_Service.ts.ts
+  02_Angular_Signal_AI_State.ts.ts
+  03_RxJS_AI_Typeahead.ts.ts
+10_browser_local_ai/
+  01_WebGPU_Concept.ts.ts
+  02_WebLLM_Concept.ts.ts
+  03_TransformersJS_Concept.ts.ts
+  04_Hybrid_Local_Cloud.ts.ts
+11_mcp/
+  01_MCP_Overview.ts.ts
+  02_MCP_2026_Stateless.ts.ts
+  03_MCP_Tool_Server.ts.ts
+  04_MCP_Security.ts.ts
+12_ai_security_guardrails/
+  01_Secrets_BFF.ts.ts
+  02_Output_Validation.ts.ts
+  03_XSS_AI_Markdown.ts.ts
+  04_PII_Minimization.ts.ts
+  05_Rate_Limit_Budget.ts.ts
+13_evals_observability/
+  01_Evals.ts.ts
+  02_AI_Trace.ts.ts
+  03_Latency_Budget.ts.ts
+  04_Model_Routing.ts.ts
+14_cost_performance/
+  01_Prompt_Caching.ts.ts
+  02_Context_Trimming.ts.ts
+  03_Deduplicate_Requests.ts.ts
+15_ai_system_design/
+  01_AI_Chat_Architecture.ts.ts
+  02_Copilot_Architecture.ts.ts
+  03_AI_Search.ts.ts
+  04_AI_Form_Assistant.ts.ts
+  05_AI_Code_Review_Feature.ts.ts
+16_interview_questions/
+  01_What_Is_AI_Frontend.ts.ts
+  02_RAG_vs_FineTuning.ts.ts
+  03_Agent_vs_Workflow.ts.ts
+  04_AI_Failure_Modes.ts.ts
+17_portfolio_projects/
+  01_AI_Interview_Copilot.ts.ts
+  02_AI_A11y_Reviewer.ts.ts
+  03_AI_Data_Table_Assistant.ts.ts
+app/
+  App.tsx
+  main.tsx
+  styles.css
