@@ -10,8 +10,8 @@ import { Component } from '@angular/core';
 
   template:`
     <div class="demo">
-      <h2>@defer</h2>
-      <p class="interview-line">@defer lazily loads template dependencies based on triggers such as viewport, interaction, idle, timer, or a condition.</p>
+      <h2>&#64;defer</h2>
+      <p class="interview-line">&#64;defer lazily loads template dependencies based on triggers such as viewport, interaction, idle, timer, or a condition.</p>
       @defer(on interaction(trigger)){<div class="card">Deferred content loaded.</div>}@placeholder{<button #trigger>Load deferred content</button>}
     </div>
   `

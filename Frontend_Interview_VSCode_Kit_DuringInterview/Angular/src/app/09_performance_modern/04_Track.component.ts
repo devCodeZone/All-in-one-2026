@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
 
   template:`
     <div class="demo">
-      <h2>@for track</h2>
+      <h2>&#64;for track</h2>
       <p class="interview-line">Stable list tracking lets Angular reuse DOM efficiently; prefer stable unique IDs over array indexes for reorderable lists.</p>
       @for(user of users;track user.id){<div class="card">{{ user.name }}</div>}
     </div>

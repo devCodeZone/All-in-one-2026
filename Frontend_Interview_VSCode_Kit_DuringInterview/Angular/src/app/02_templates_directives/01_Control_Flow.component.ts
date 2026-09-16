@@ -1,23 +1,52 @@
-/**
- * INTERVIEW ONE-LINER: Modern Angular built-in control flow uses @if, @for, and @switch with explicit list tracking.
- * Interview note: This compact runnable example has comments around the key implementation.
- */
 import { Component } from '@angular/core';
 
 @Component({
-  selector:'demo-01-control-flow',
-  standalone:true,
+  selector: 'demo-control-flow',
+  standalone: true,
 
-  template:`
+  template: `
     <div class="demo">
-      <h2>@if / @for / @switch</h2>
-      <p class="interview-line">Modern Angular built-in control flow uses @if, @for, and @switch with explicit list tracking.</p>
-      @if(loggedIn){<p>Welcome</p>}@else{<p>Login</p>} @for(skill of skills;track skill){<div class="card">{{ skill }}</div>} @switch(level){@case("senior"){<p>Senior</p>}@default{<p>Other</p>}} <button (click)="loggedIn=!loggedIn">Toggle</button>
+      <h2>&#64;if / &#64;for / &#64;switch</h2>
+
+      <p class="interview-line">
+        Modern Angular built-in control flow uses &#64;if, &#64;for and
+        &#64;switch with explicit list tracking.
+      </p>
+
+      <!-- Safely displays the example without parsing its brackets -->
+      <pre>{{ exampleCode }}</pre>
+
+      <button type="button" (click)="loggedIn = !loggedIn">
+        Toggle
+      </button>
     </div>
   `
 })
 export class ControlFlowDemo {
-  loggedIn=true;
-  skills=['Signals','RxJS','Router'];
-  level='senior';
+  loggedIn = true;
+
+  skills = ['Signals', 'RxJS', 'Router'];
+
+  level = 'senior';
+
+  readonly exampleCode = `
+@if (loggedIn) {
+  <p>Welcome</p>
+} @else {
+  <p>Login</p>
+}
+
+@for (skill of skills; track skill) {
+  <div class="card">{{ skill }}</div>
+}
+
+@switch (level) {
+  @case ('senior') {
+    <p>Senior</p>
+  }
+
+  @default {
+    <p>Other</p>
+  }
+}`;
 }
